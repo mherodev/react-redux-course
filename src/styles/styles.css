@@ -1,0 +1,16 @@
+nav a {
+  padding: 0 5px;
+}
+
+nav a:hover,
+nav a:focus {
+  text-decoration: none;
+}
+
+nav .activeNavItem {
+  background-color: #ffcc00;
+}
+
+form .alert {
+  margin: 10px 0;
+}
